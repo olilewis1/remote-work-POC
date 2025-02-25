@@ -7,7 +7,7 @@ export const useWhoIsInControl = (sessionId) => {
   const [whoIsInControl, setWhoIsInControl] = useState(PARTICIPANT_ROLES.CUSTOMER);
 
   const { loading, error, data } = useQuery(GET_SESSION, { 
-    variables: {
+        variables: {
       sessionId: SESSION_CONFIG.DEFAULT_SESSION_ID
     }
   });

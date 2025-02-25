@@ -75,7 +75,7 @@ npm start
    - Copy the returned token
    - In the second browser, set the token in headers: 
    token: value from above
-
+Will need to refresh both browsers to see the changes
 ## Testing the Real-time Features
 
 1. In the Customer view (browser with Customer token):
