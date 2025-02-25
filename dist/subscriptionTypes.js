@@ -1,0 +1,3 @@
+export const DETAILS_UPDATED = 'DETAILS_UPDATED';
+export const JOINED_SESSION = 'JOINED_SESSION';
+export const FORM_UPDATED = 'FORM_UPDATED';
