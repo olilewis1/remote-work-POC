@@ -1,0 +1,17 @@
+{
+  "name": "sse-graphql-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "graphql": "^16.10.0",
+    "graphql-sse": "^2.5.4",
+    "graphql-subscriptions": "^3.0.0"
+  }
+}
